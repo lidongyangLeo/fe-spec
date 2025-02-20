@@ -1,0 +1,15 @@
+{
+  "name": "markdownlint-config-encode",
+  "version": "0.0.1",
+  "description": "markdownlint config for encode",
+  "author": "lidongyang",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
