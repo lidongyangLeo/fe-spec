@@ -1,11 +1,11 @@
 {
-  "name": "markdownlint-config-encode",
+  "name": "commitlint-config",
   "version": "0.0.1",
-  "description": "markdownlint config for encode",
+  "description": "git commitlint config",
   "author": "lidongyang",
-  "homepage": "",
+  "homepage": "https://github.com/lidongyangLeo/fe-spec#readme",
   "license": "ISC",
-  "main": "index.json",
+  "main": "index.js",
   "publishConfig": {
     "registry": "https://registry.npmmirror.com/"
   },
@@ -13,10 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/lidongyangLeo/fe-spec.git"
   },
-  "peerDependencies": {
-    "markdownlint": "^0.28.1"
+  "scripts": {
+    "test": "node ./__tests__/commitlint-config.test.js"
   },
   "bugs": {
     "url": "https://github.com/lidongyangLeo/fe-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^8.0.0"
   }
 }

@@ -4,8 +4,8 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {},
   "devDependencies": {
+    "husky": "^9.1.7",
     "lerna": "^8.2.0"
   },
   "scripts": {
