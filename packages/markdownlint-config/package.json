@@ -15,5 +15,8 @@
   },
   "bugs": {
     "url": "https://github.com/lidongyangLeo/fe-spec/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
