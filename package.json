@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@dyli/fe-spec",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -24,5 +24,6 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "author": "li dongyang"
 }
