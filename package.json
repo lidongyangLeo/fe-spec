@@ -1,12 +1,14 @@
 {
   "name": "@dyli/fe-spec",
   "private": true,
+  "version": "1.0.0",
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
     "husky": "^9.1.7",
-    "lerna": "^8.2.0"
+    "lerna": "^8.2.0",
+    "pnpm": "9.15.1"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
