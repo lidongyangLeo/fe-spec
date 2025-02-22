@@ -6,9 +6,6 @@
   "homepage": "",
   "license": "ISC",
   "main": "index.json",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lidongyangLeo/fe-spec.git"
@@ -18,6 +15,5 @@
   },
   "bugs": {
     "url": "https://github.com/lidongyangLeo/fe-spec/issues"
-  },
-  "gitHead": "880ed3567e43b3adc3d219ad6895e2d7e3dd72fa"
+  }
 }
