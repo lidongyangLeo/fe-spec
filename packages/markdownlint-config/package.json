@@ -1,5 +1,5 @@
 {
-  "name": "markdownlint-config-encode",
+  "name": "@dyli/markdownlint-config-encode",
   "version": "1.0.10",
   "description": "markdownlint config for encode",
   "author": "lidongyang",
@@ -18,5 +18,6 @@
   },
   "bugs": {
     "url": "https://github.com/lidongyangLeo/fe-spec/issues"
-  }
+  },
+  "gitHead": "880ed3567e43b3adc3d219ad6895e2d7e3dd72fa"
 }

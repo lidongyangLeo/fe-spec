@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config",
+  "name": "@dyli/commitlint-config",
   "version": "1.0.10",
   "description": "git commitlint config",
   "author": "lidongyang",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^8.0.0"
-  }
+  },
+  "gitHead": "880ed3567e43b3adc3d219ad6895e2d7e3dd72fa"
 }
