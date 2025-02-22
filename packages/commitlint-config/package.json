@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "git commitlint config",
   "author": "lidongyang",
   "homepage": "https://github.com/lidongyangLeo/fe-spec#readme",
