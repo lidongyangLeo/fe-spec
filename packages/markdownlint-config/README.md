@@ -22,4 +22,4 @@ npm install markdownlint-config-encode markdownlint --save-dev
 }
 ```
 
-// 测试用 4
+// 测试用 5
